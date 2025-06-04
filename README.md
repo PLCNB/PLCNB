@@ -24,8 +24,7 @@
     <a href="https://www.youtube.com/@PLCNB"><img src="https://img.shields.io/badge/YouTube-油管-c32136" /></a>&emsp;
 
     <!-- visitor -->
-    <img src="https://komarev.com/ghpvc/?username=PLCNB&label=Views&color=orange&style=flat" alt="访问量统计" />&emsp;
-    <!-- wakatime -->    
+    <img src="https://komarev.com/ghpvc/?username=PLCNB&label=Views&color=orange&style=flat" alt="访问量统计" />&emsp; 
   </div>
 
   <!-- Snake Code Contribution Map 贪吃蛇代码贡献图 -->

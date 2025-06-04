@@ -21,10 +21,7 @@
     <a href="https://sfile.chatglm.cn/chatglm4/7cd24681-e0bf-4e63-b690-482214fe1e51.jpg"><img src="https://img.shields.io/badge/WeChat-微信交流群-07c160" /></a>&emsp;
     <a href="https://space.bilibili.com/66043259/"><img src="https://img.shields.io/badge/Bilibili-B站-ff69b4" /></a>&emsp;
     <a href="https://twitter.com/PLCNBB/"><img src="https://img.shields.io/badge/Twitter-推特-blue" /></a>&emsp;
-    <a href="https://www.youtube.com/@PLCNB"><img src="https://img.shields.io/badge/YouTube-油管-c32136" /></a>&emsp;
-<img src="https://komarev.com/ghpvc/?username=PLCNB&label=Views&color=orange&style=flat" alt="访问量统计" />&emsp;
-<img src="https://komarev.com/ghpvc/?username=PLCNB&label=Views&color=orange&style=flat" alt="访问量统计" />&emsp;
-    <!-- wakatime -->    
+    <a href="https://www.youtube.com/@PLCNB"><img src="https://img.shields.io/badge/YouTube-油管-c32136" /></a>&emsp;<img src="https://komarev.com/ghpvc/?username=PLCNB&label=Views&color=orange&style=flat" alt="访问量统计" />&emsp;<img src="https://komarev.com/ghpvc/?username=PLCNB&label=Views&color=orange&style=flat" alt="访问量统计" />&emsp;
   </div>
 
   <!-- Snake Code Contribution Map 贪吃蛇代码贡献图 -->

@@ -25,8 +25,8 @@
 
    
 
-<img src="https://komarev.com/ghpvc/?username=sun0225SUN&label=Views&color=orange&style=flat" alt="访问量统计" />&emsp;
-    <img src="https://komarev.com/ghpvc/?username=sun0225SUN&label=Views&color=orange&style=flat" alt="访问量统计" />&emsp;
+<img src="https://komarev.com/ghpvc/?username=PLCNB&label=Views&color=orange&style=flat" alt="访问量统计" />&emsp;
+<img src="https://komarev.com/ghpvc/?username=PLCNB&label=Views&color=orange&style=flat" alt="访问量统计" />&emsp;
     <!-- wakatime -->    
   </div>
 
